@@ -7,7 +7,7 @@
 >    gost.exe -L=:1080 -F=ss+mwss://method:password@appname.herokuapp.com:443
 > ```
 
-> 3. 客户端[下载](https://github.com/ginuerzh/gost/releases/tag/v2.11.0)
+> 3. 客户端[下载](https://github.com/fast14852/gost/releases/tag/v2.11.0)
  
 > 4.  技术文档[站点](https://docs.ginuerzh.xyz/gost/)
 
